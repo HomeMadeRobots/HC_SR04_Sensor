@@ -25,10 +25,10 @@
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">5.29.2020::8:44:40</_modifiedTimeWeak>
-			<_modifiedTime type="a">5.29.2020::9:33:46</_modifiedTime>
+			<_modifiedTimeWeak type="a">6.13.2020::19:53:13</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.13.2020::19:53:13</_modifiedTime>
 			<_lastID type="a">2</_lastID>
-			<weakCGTime type="a">5.29.2020::8:44:40</weakCGTime>
+			<weakCGTime type="a">6.13.2020::19:53:13</weakCGTime>
 			<strongCGTime type="a">5.28.2020::13:19:17</strongCGTime>
 			<_defaultComposite type="s">GUID 94dc3c23-487c-4850-a0e6-37e428a9702f</_defaultComposite>
 			<_eventsBaseID type="a">-1</_eventsBaseID>
@@ -1497,16 +1497,16 @@
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">5.29.2020::9:37:15</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">6.13.2020::19:53:13</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
 					<_hid type="a">GUID 2f4c2bc3-19e1-46f0-8f19-5b3032ff475a</_hid>
 				</IHandle>
 			</_theMainDiagram>
-			<_modifiedTime type="a">5.29.2020::9:37:15</_modifiedTime>
+			<_modifiedTime type="a">6.13.2020::19:53:13</_modifiedTime>
 			<_lastID type="a">11</_lastID>
-			<weakCGTime type="a">5.29.2020::9:37:15</weakCGTime>
+			<weakCGTime type="a">6.13.2020::19:53:13</weakCGTime>
 			<strongCGTime type="a">5.28.2020::13:19:28</strongCGTime>
 			<_itsStateChart type="r">
 				<IHandle type="e">
@@ -1765,7 +1765,7 @@
 		<ILabel type="e">
 			<_id type="a">GUID c8d6b651-9592-4acc-b39d-22cb6fcd445c</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_itsTrigger>NULL</_itsTrigger>
 			<_itsGuard>NULL</_itsGuard>
 			<_itsAction>NULL</_itsAction>
@@ -1799,7 +1799,7 @@
 		<ILabel type="e">
 			<_id type="a">GUID ee75613e-e243-4975-9dcf-be1178ac2108</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_itsTrigger>NULL</_itsTrigger>
 			<_itsGuard>NULL</_itsGuard>
 			<_itsAction>NULL</_itsAction>
@@ -1833,7 +1833,7 @@
 		<ILabel type="e">
 			<_id type="a">GUID 33cb9385-eedd-418b-8538-0f777fc7031c</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_itsTrigger>NULL</_itsTrigger>
 			<_itsGuard>NULL</_itsGuard>
 			<_itsAction>NULL</_itsAction>
@@ -1867,7 +1867,7 @@
 		<ILabel type="e">
 			<_id type="a">GUID a8e211a5-4f2a-42a0-b657-102bb33ebe98</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_itsTrigger>NULL</_itsTrigger>
 			<_itsGuard>NULL</_itsGuard>
 			<_itsAction>NULL</_itsAction>
@@ -1953,7 +1953,7 @@
 		<IGuard type="e">
 			<_id type="a">GUID 1513a020-11a1-4adc-8c7e-975e99f09753</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_body type="a">pulse_duration &gt; MAX_PULSE_DURATION</_body>
 		</IGuard>
 		<ITransition type="e">
@@ -1985,7 +1985,7 @@
 		<ILabel type="e">
 			<_id type="a">GUID 174a6014-5af7-4dba-a4ba-553a2825d354</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_itsTrigger>NULL</_itsTrigger>
 			<_itsGuard>NULL</_itsGuard>
 			<_itsAction>NULL</_itsAction>
@@ -2019,7 +2019,7 @@
 		<ILabel type="e">
 			<_id type="a">GUID 719934dc-7c30-483e-aa32-2144b939e8d2</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_itsTrigger>NULL</_itsTrigger>
 			<_itsGuard>NULL</_itsGuard>
 			<_itsAction>NULL</_itsAction>
@@ -2053,7 +2053,7 @@
 		<ILabel type="e">
 			<_id type="a">GUID 974c5ae0-0cd7-4256-a59d-8f6b42395dfd</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_itsTrigger>NULL</_itsTrigger>
 			<_itsGuard>NULL</_itsGuard>
 			<_itsAction>NULL</_itsAction>
@@ -2087,7 +2087,7 @@
 		<ILabel type="e">
 			<_id type="a">GUID 153b0c39-dfe6-4353-bdb1-b923bfa7defe</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_itsTrigger>NULL</_itsTrigger>
 			<_itsGuard>NULL</_itsGuard>
 			<_itsAction>NULL</_itsAction>
@@ -2121,7 +2121,7 @@
 		<ILabel type="e">
 			<_id type="a">GUID 90de5468-f64e-4f90-a5eb-09f2d4294d8e</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_itsTrigger>NULL</_itsTrigger>
 			<_itsGuard>NULL</_itsGuard>
 			<_itsAction>NULL</_itsAction>
@@ -2155,7 +2155,7 @@
 		<ILabel type="e">
 			<_id type="a">GUID c662ca79-7dd0-4d60-bf15-cccab19fed95</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_itsTrigger>NULL</_itsTrigger>
 			<_itsGuard>NULL</_itsGuard>
 			<_itsAction>NULL</_itsAction>
@@ -2189,7 +2189,7 @@
 		<ILabel type="e">
 			<_id type="a">GUID c864c1e5-ea3e-44da-8b70-1f34ace637a5</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_itsTrigger>NULL</_itsTrigger>
 			<_itsGuard>NULL</_itsGuard>
 			<_itsAction>NULL</_itsAction>
@@ -2223,7 +2223,7 @@
 		<ILabel type="e">
 			<_id type="a">GUID df827ce3-e8d2-4cd9-b241-e158e7f2dcee</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_itsTrigger>NULL</_itsTrigger>
 			<_itsGuard>NULL</_itsGuard>
 			<_itsAction>NULL</_itsAction>
@@ -2257,7 +2257,7 @@
 		<ILabel type="e">
 			<_id type="a">GUID df21d256-605c-41a7-a38e-4758e7e63c27</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_itsTrigger>NULL</_itsTrigger>
 			<_itsGuard>NULL</_itsGuard>
 			<_itsAction>NULL</_itsAction>
@@ -2291,7 +2291,7 @@
 		<ILabel type="e">
 			<_id type="a">GUID 8e297adb-3ba4-43e4-853e-e58193728b86</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_itsTrigger>NULL</_itsTrigger>
 			<_itsGuard>NULL</_itsGuard>
 			<_itsAction>NULL</_itsAction>
@@ -2325,7 +2325,7 @@
 		<ILabel type="e">
 			<_id type="a">GUID 28eeb516-4065-4aea-a6b8-77e8bff25a6e</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_itsTrigger>NULL</_itsTrigger>
 			<_itsGuard>NULL</_itsGuard>
 			<_itsAction>NULL</_itsAction>
@@ -2359,7 +2359,7 @@
 		<ILabel type="e">
 			<_id type="a">GUID a51306dd-f869-45f9-b810-c6ceaba981e7</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_itsTrigger>NULL</_itsTrigger>
 			<_itsGuard>NULL</_itsGuard>
 			<_itsAction>NULL</_itsAction>
@@ -4252,7 +4252,7 @@ filtered_pulse_duration = pulse_duration</_body>
 					<m_nOrientationCtrlPt type="a">8</m_nOrientationCtrlPt>
 				</CGIText>
 			</m_name>
-			<m_drawBehavior type="a">12288</m_drawBehavior>
+			<m_drawBehavior type="a">4096</m_drawBehavior>
 			<m_transform type="a">0.0713624 0 0 0.0458015 366.428 350.954 </m_transform>
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
 			<m_position type="a">4 -6 1  -6 1049  1073 1049  1073 1  </m_position>
@@ -8644,10 +8644,10 @@ filtered_pulse_duration = pulse_duration</_body>
 			<_id type="a">GUID 1ef982d7-8a26-469a-9e9b-6c57d2884165</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">Setting__Set_Sound_Speed</_name>
-			<_modifiedTimeWeak type="a">5.28.2020::13:31:58</_modifiedTimeWeak>
-			<_modifiedTime type="a">5.28.2020::13:32:15</_modifiedTime>
+			<_modifiedTimeWeak type="a">6.13.2020::19:53:13</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.13.2020::19:53:13</_modifiedTime>
 			<_lastID type="a">5</_lastID>
-			<weakCGTime type="a">5.28.2020::13:31:58</weakCGTime>
+			<weakCGTime type="a">6.13.2020::19:53:13</weakCGTime>
 			<strongCGTime type="a">5.28.2020::13:21:13</strongCGTime>
 			<_itsStateChart type="r">
 				<IHandle type="e">
@@ -8655,7 +8655,7 @@ filtered_pulse_duration = pulse_duration</_body>
 			</_itsStateChart>
 			<_classModifier type="a">Unspecified</_classModifier>
 			<_defNumber type="a">2</_defNumber>
-			<_version type="a">5.28.2020::15:32:15</_version>
+			<_version type="a">6.13.2020::21:53:13</_version>
 			<_baseVersion type="a">1.2.1990::0:0:0</_baseVersion>
 			<_diagram type="s">GUID 9eaaeef7-ea49-46fa-aec1-f375b7bc164e</_diagram>
 			<AggregatesList type="e">
@@ -8814,18 +8814,18 @@ filtered_pulse_duration = pulse_duration</_body>
 		</IState>
 		<IState type="e">
 			<_id type="a">GUID 0089fd7a-198c-4a45-82fc-c75cd5f68514</_id>
-			<_name type="a">Get_Sound_Speed</_name>
-			<_modifiedTimeWeak type="a">5.28.2020::13:31:36</_modifiedTimeWeak>
-			<_modifiedTime type="a">5.28.2020::13:31:36</_modifiedTime>
+			<_name type="a">Set_Sound_Speed</_name>
+			<_modifiedTimeWeak type="a">6.13.2020::19:53:13</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.13.2020::19:53:13</_modifiedTime>
 			<_parent type="s">GUID 695ae8ec-29c2-47ed-9f39-ba75eb7c414c</_parent>
 			<_stateType type="a">Action</_stateType>
 			<_defaultTrans type="s"></_defaultTrans>
 			<_entryAction type="p"><IAction type="e">
 				<_id type="a">GUID ab66d932-1fb2-4b72-b327-ed9e33f581b4</_id>
 				<_myState type="a">4096</_myState>
-				<_modifiedTimeWeak type="a">5.28.2020::13:31:36</_modifiedTimeWeak>
-				<_modifiedTime type="a">5.28.2020::13:31:36</_modifiedTime>
-				<_body type="a">speed = Sound_Speed</_body>
+				<_modifiedTimeWeak type="a">6.13.2020::19:53:13</_modifiedTimeWeak>
+				<_modifiedTime type="a">6.13.2020::19:53:13</_modifiedTime>
+				<_body type="a">Sound_Speed = speed</_body>
 			</IAction>
 			</_entryAction>
 		</IState>
@@ -9223,9 +9223,9 @@ filtered_pulse_duration = pulse_duration</_body>
 			</IPropertyContainer>
 			</_properties>
 			<_name type="a">activitydiagram_0</_name>
-			<_modifiedTimeWeak type="a">5.28.2020::13:31:58</_modifiedTimeWeak>
-			<_modifiedTime type="a">5.28.2020::13:32:15</_modifiedTime>
-			<_lastModifiedTime type="a">5.28.2020::13:32:15</_lastModifiedTime>
+			<_modifiedTimeWeak type="a">6.13.2020::19:53:13</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.13.2020::19:53:13</_modifiedTime>
+			<_lastModifiedTime type="a">6.13.2020::19:53:13</_lastModifiedTime>
 			<m_hReferencedDiagram type="r">
 				<IHandle type="e">
 				</IHandle>
@@ -9504,7 +9504,7 @@ filtered_pulse_duration = pulse_duration</_body>
 			<m_pParent type="s">GUID 160bf461-2685-423b-a092-11a7d6ad1075</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
-					<m_str type="a">Get_Sound_Speed</m_str>
+					<m_str type="a">Set_Sound_Speed</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
